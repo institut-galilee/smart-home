@@ -4,7 +4,7 @@
 * Hanae Seddiki (hanae.seddiki@etu.univ-paris13.fr)
 * Nissrine Chaouqi (nissrine.chaouqi@etu.univ-paris13.fr)
 
-# Abstract
+## Abstract
 > Se réunir est un début, rester ensemble est un progrès, travailler ensemble est la réussite.
 >
 > -- <cite>Henry Ford, 1922</cite>
@@ -19,3 +19,6 @@ fonctionnalité dite de sécurité (code d'accès), une fonctionnalité portant 
 maison (ouverture du portail ou du garage) et enfin une fonctionnalité « superficielle » permettant de
 contrôler les lumières de chez soi. Le but final a été de faire quelque chose que nous pourrions
 réutiliser dans la vie quotidienne.
+
+## Promotional Video
+https://youtu.be/k-GLO7jyLLo
