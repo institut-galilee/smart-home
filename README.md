@@ -1,8 +1,8 @@
 # Smart Home
 
 ## Authors
-* Hanae Seddiki
-* Nissrine Chaouqi
+* Hanae Seddiki (hanae.seddiki@etu.univ-paris13.fr)
+* Nissrine Chaouqi (nissrine.chaouqi@etu.univ-paris13.fr)
 
 # Abstract
 > Se réunir est un début, rester ensemble est un progrès, travailler ensemble est la réussite.
